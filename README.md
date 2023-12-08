@@ -1,2 +1,7 @@
 # app-dev
 My first repository - Nazyvee Meniable
+## A Silent Voice
+![A Silent Voice](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJrlYXvqlm1bAFMMfjhlX970K4B0z2AJv66KKb1Y9gW-4eml2X)
+## My Favorite Movie is the ***"A Silent Voice"*** <br />
+Shōya Ishida, an elementary school student, is bullied by his friends and is framed as the sole perpetrator. He becomes a depressed loner in high school, believing suicide is his only solution. However, he reconciles with Shōko and befriends Tomohiro Nagatsuka, who feels indebted to him for saving him from a bully. Shōko reconnects with Miyoko Sahara, who genuinely befriends him, and Miki Kawai, who is in a relationship with Satoshi Mashiba. Shōko gives Shōya a gift and confesses her feelings for him, but runs off upset when Shōya mishears her. Shōya takes the Nishimiyas to the countryside to cheer them up, realizing that Shōko blames herself for everything. Shōya devotes his entire social life to the sisters.
+During a fireworks festival, Shōko leaves early, and Shōya stops her from jumping from her balcony. He falls into the river below and is rescued by his former friends. One night, Shōko dreams about receiving a farewell visit from Shōya, and he apologizes for bullying and admits his original plan to commit suicide. When Shōya returns to school, he reunites with his friends and realizes he has finally redeemed himself by ignoring everyone around him.
